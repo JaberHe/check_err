@@ -10,7 +10,7 @@ Ce script Python compare deux fichiers texte pour vérifier la présence de donn
 
 2. **Clonage du référentiel**
 
-   ```
+   ```bash
    git clone https://github.com/votre-utilisateur/nom-du-repo.git
    ```
 
@@ -36,7 +36,3 @@ Ce script Python compare deux fichiers texte pour vérifier la présence de donn
 
 - Vous pouvez modifier le schéma utilisé pour différencier les éléments du premier fichier en modifiant la variable `scheme` dans le script.
 - Assurez-vous d'avoir les autorisations d'exécution pour le script si nécessaire (`chmod +x check_err.py`).
-
-
-
-
